@@ -9,4 +9,5 @@ node app.js
 ```
 :)
 
-para acessar o vs só aperta a tecla .(ponto)
+para acessar o vs só aperta a tecla .(ponto)!
+[git](https://user-images.githubusercontent.com/94912867/203129962-6bfd8161-5561-4984-8d6e-e669013edefc.jpg)
