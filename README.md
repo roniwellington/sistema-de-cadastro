@@ -14,7 +14,7 @@ node app.js
 
 para acessar o vs só aperta a tecla .(ponto)!
 
-![imagem git e github](https://roniwellington.github.io/jacklanterna/img/git.jpg)
+![imagem git e github](https://www.ratamero.com/blog/assets/git-and-github-logos.png)
 
 Introdução ao git e github curs feito na Alura
 
