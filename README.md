@@ -10,4 +10,6 @@ node app.js
 :)
 
 para acessar o vs só aperta a tecla .(ponto)!
-[imagem do git e github](https://user-images.githubusercontent.com/94912867/203129962-6bfd8161-5561-4984-8d6e-e669013edefc.jpg)
+
+![imagem git e github](https://roniwellington.github.io/jacklanterna/img/git.jpg)
+
