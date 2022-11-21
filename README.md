@@ -1,4 +1,7 @@
+![Badge em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-green)
+
 #Sistema de cadastro de jogos
+
 
 > Status do projeto: Em desenvolvimento 
 
