@@ -13,3 +13,5 @@ para acessar o vs só aperta a tecla .(ponto)!
 
 ![imagem git e github](https://roniwellington.github.io/jacklanterna/img/git.jpg)
 
+Introdução ao git e github curs feito na Alura
+
